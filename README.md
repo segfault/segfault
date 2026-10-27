@@ -1,16 +1,13 @@
-## Hi there 👋
+Mark Guzman
 
-<!--
-**segfault/segfault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems and quant engineer. I build trading and data platforms: research, quant
+tooling, infrastructure, and operations for a systematic relative-value
+derivatives strategy.
 
-Here are some ideas to get you started:
+Previously: medical monitoring, advertising, and financial data (Bloomberg, FactSET),
+including Kubernetes-based infrastructure, cloud and prototype platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional work is proprietary. Public work here is open-source
+and homelab projects, e.g. anycaster (Rust anycast health checker for BIRD/OSPF/BGP).
+
+CS, RIT · hasno.info
